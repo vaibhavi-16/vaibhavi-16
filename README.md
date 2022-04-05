@@ -1,5 +1,5 @@
 - 👋  Hello ! My name is Vaibhavi Kumari .
-- 👀 I’m currently working on Machine Learning , Natural Language Processing & Front-end Development.
+- 👀 I’m currently working on Python , Web- Development , Machine Learning , Natural Language Processing & skills to enhance my performance.
 - 💞️ I’m looking to get an Internship or Job.
 - 📫 How to reach me. https://www.linkedin.com/in/vaibhavi-kumari-8a64741b6/
 -    My Portfolio link 1: https://myportfolioo-lqcjf67ei-vaibhavi-16.vercel.app/
