@@ -1,6 +1,6 @@
 - 👋  Hello ! My name is Vaibhavi Kumari .
 - 👀 I’m currently working on Python ,Python librarys's,Html,CSS,Django,Web-Development, Machine Learning to enhance my performance.
-- 💞️ I’m looking for a Job in reputed Firm.
+- 💼 I’m looking for a Job in reputed Firm.
 - 📫 How to reach me. https://www.linkedin.com/in/vaibhavi-kumari-8a64741b6/
 -    My Portfolio link 1: https://myportfolioo-lqcjf67ei-vaibhavi-16.vercel.app/
 -    My Portfolio link 2: https://myportfolio-pi-ten.vercel.app/
