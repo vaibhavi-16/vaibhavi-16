@@ -1,5 +1,5 @@
-- 👋  Hello ! My name is Vaibhavi Kumari .
-- 👀 I’m currently working on Python ,Python librarys's,Html,CSS,Django,Web-Development and Machine Learning to enhance my performance.
+- 👋  Hello! My name is Vaibhavi Kumari.
+- 👀 I’m currently working on Python, Python libraries, DSA, and full-stack development to enhance my performance.
 - 💼 I’m a Python Developer.
 - 📫 How to reach me. https://www.linkedin.com/in/vaibhavi-kumari-8a64741b6/
--    Via Mail : tandon16vaibhavi@gmail.com
+-    Via Mail: tandon16vaibhavi@gmail.com
