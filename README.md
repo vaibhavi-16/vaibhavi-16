@@ -1,8 +1,8 @@
 - 👋  Hello! My name is Vaibhavi Kumari.
 - 👀 I’m currently working on these stacks:
-- Python, HTML/CSS, JavaScript, SQL, PostgreSQL, Redis, NumPy and Pandas, REST APIs
+- Python, HTML/CSS, Vue.js, JavaScript, SQL, PostgreSQL, Redis, NumPy and Pandas, REST APIs
 - Tools and Technologies: Django Framework, Google Cloud Platform, Google Colaboratory, Git, GitHub, Linux, MobaXterm, Docker
 - Technical Courses: Software Engineering, Database Management System
-- 💼 I’m a Backend Developer.
+- 💼 I’m a Full Stack Developer.
 - 📫 How to reach me. https://www.linkedin.com/in/vaibhavi-kumari-8a64741b6/
 -    Via Mail: tandon16vaibhavi@gmail.com
