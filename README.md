@@ -1,8 +1,79 @@
-- 👋  Hello! My name is Vaibhavi Kumari.
-- 👀 I’m currently working on these stacks:
-- Python, HTML/CSS, Vue.js, JavaScript, SQL, PostgreSQL, Redis, NumPy and Pandas, REST APIs
-- Tools and Technologies: Django Framework, Google Cloud Platform, Google Colaboratory, Git, GitHub, Linux, MobaXterm, Docker
-- Technical Courses: Software Engineering, Database Management System
-- 💼 I’m a Full Stack Developer.
-- 📫 How to reach me. https://www.linkedin.com/in/vaibhavi-kumari-8a64741b6/
--    Via Mail: tandon16vaibhavi@gmail.com
+──────────────────────────────────────────────
+
+             👋 Hi, I'm Vaibhavi Kumari
+
+        Senior Full Stack Engineer
+   Python • Django • FastAPI • AI Engineer
+
+🚀 Building scalable backend systems
+☁ Azure | Kubernetes | Docker
+💻 4.8 Years Experience
+📍 Bangalore, India
+
+──────────────────────────────────────────────
+
+            [Typing Animation]
+
+Senior Full Stack Engineer
+Python Backend Developer
+FastAPI Expert
+Azure Cloud Engineer
+AI Enthusiast
+
+──────────────────────────────────────────────
+
+Tech Stack
+
+Python      Django      FastAPI
+
+Vue.js      JavaScript  SQL
+
+Azure       Docker      Kubernetes
+
+Redis       Celery      PostgreSQL
+
+Git         Linux       REST APIs
+
+──────────────────────────────────────────────
+
+Featured Projects
+
+⭐ PriceScope
+Enterprise Pricing Platform
+
+⭐ Margin Forecasting
+Retail Forecasting Platform
+
+⭐ AI Resume Analyzer
+
+⭐ RAG Chatbot
+
+──────────────────────────────────────────────
+
+GitHub Stats
+
+Top Languages
+Contribution Graph
+GitHub Trophy
+Streak Stats
+
+──────────────────────────────────────────────
+
+Achievements
+
+🏆 25+ Technical Interviews
+
+🚀 Enterprise Architect
+
+☁ Azure Certified
+
+💻 4.8 Years Experience
+
+──────────────────────────────────────────────
+
+Connect
+
+LinkedIn
+Email
+Portfolio
+Leetcode
