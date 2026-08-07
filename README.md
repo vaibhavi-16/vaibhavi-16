@@ -28,7 +28,7 @@
 
 I'm a **Senior Application Developer** with **4 Years 8 Months** of experience designing, developing, and scaling enterprise-grade applications.
 
-Currently working at **Landmark Group – Data Labs**, where I build backend systems powering pricing intelligence and business analytics platforms.
+Currently working at **Landmark Group – CSI**, where I build backend systems powering pricing intelligence and business analytics platforms.
 
 ### 💡 What I Build
 
